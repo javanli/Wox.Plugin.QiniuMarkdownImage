@@ -1,0 +1,12 @@
+{
+    "ID":"dd26bb5c-db36-4609-bc87-b7902c95ab84",
+    "ActionKeyword":"qn",
+    "Name":"QiniuMarkdownImage",
+    "Description":"upload picture to Qiniu CDN and generate Markdown String",
+    "Author":"javanli",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}

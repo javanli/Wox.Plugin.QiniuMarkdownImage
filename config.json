@@ -1,0 +1,6 @@
+{
+    "access_key" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "secret_key" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "bucket_name" : "xxxxx",
+    "bucket_url" : "http:/xxxxxxxxx.bkt.clouddn.com"
+}
