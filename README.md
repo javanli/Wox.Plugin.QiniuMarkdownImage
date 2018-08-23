@@ -23,6 +23,6 @@ pip install pillow
 几个字段都是七牛云的鉴权字段。
 
 ## 4.使用
-复制图片文件或截图后，打开wox，输入qn，待出现"图片已上传"字样时，回车确认。
+复制图片文件或截图后，打开wox，输入qn，待出现"图片已上传"字样时，回车确认。链接将被粘贴到剪切板。
 
 ![image](http://opkq28qwn.bkt.clouddn.com/FlndJzimu4uwjb35UtttoVSStpyk)
